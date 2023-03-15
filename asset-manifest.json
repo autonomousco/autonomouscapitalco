@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/autonomouscapitalco/static/css/main.3488cd92.css",
+    "main.js": "/autonomouscapitalco/static/js/main.50790fd6.js",
+    "static/js/787.10005458.chunk.js": "/autonomouscapitalco/static/js/787.10005458.chunk.js",
+    "static/media/板块2配图@2x.png": "/autonomouscapitalco/static/media/板块2配图@2x.15ebfaac1eea0862f043.png",
+    "static/media/板块2背景@2x.png": "/autonomouscapitalco/static/media/板块2背景@2x.d1bdcb78acd57b772a64.png",
+    "static/media/板块1背景@2x.png": "/autonomouscapitalco/static/media/板块1背景@2x.996b84eea2c726c2446d.png",
+    "static/media/图层 1@2x.png": "/autonomouscapitalco/static/media/图层 1@2x.0492ccaabd65621c86ba.png",
+    "static/media/板块2背景-m@2x.png": "/autonomouscapitalco/static/media/板块2背景-m@2x.5166d54cd0953e66e8c3.png",
+    "static/media/板块4背景@2x.png": "/autonomouscapitalco/static/media/板块4背景@2x.b79c3e6e1a57a522ce1b.png",
+    "static/media/板块4背景-m@2x.png": "/autonomouscapitalco/static/media/板块4背景-m@2x.b05bd090c1c09da563b8.png",
+    "static/media/板块3背景@2x.png": "/autonomouscapitalco/static/media/板块3背景@2x.f65b4ec6e334fa0815e6.png",
+    "static/media/编组 34@2x.png": "/autonomouscapitalco/static/media/编组 34@2x.5f00d9d5f7add0991ec6.png",
+    "static/media/版块3配图@2x.png": "/autonomouscapitalco/static/media/版块3配图@2x.b806a69d3d05b168dc96.png",
+    "static/media/板块3背景-m@2x.png": "/autonomouscapitalco/static/media/板块3背景-m@2x.9624092281e95fc94067.png",
+    "static/media/bahnschrift-webfont.woff": "/autonomouscapitalco/static/media/bahnschrift-webfont.3aa8ed0473eddf046db3.woff",
+    "static/media/bahnschrift-webfont.woff2": "/autonomouscapitalco/static/media/bahnschrift-webfont.b41b9096fcee944b4df7.woff2",
+    "index.html": "/autonomouscapitalco/index.html",
+    "main.3488cd92.css.map": "/autonomouscapitalco/static/css/main.3488cd92.css.map",
+    "main.50790fd6.js.map": "/autonomouscapitalco/static/js/main.50790fd6.js.map",
+    "787.10005458.chunk.js.map": "/autonomouscapitalco/static/js/787.10005458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3488cd92.css",
+    "static/js/main.50790fd6.js"
+  ]
+}
