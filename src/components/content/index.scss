@@ -1,22 +1,22 @@
 #content {
   #c1 {
     width: 100%;
-    height: 800px;
-    background: url("../../img/板块2背景@2x.png");
-    background-size: 100% 800px;
+    height: 890px;
+    background: url("../../img/vision-bg.svg");
+    background-size: 100% 890px;
     overflow: hidden;
     position: relative;
 
     @include mobile {
       height: 580px;
-      background: url("../../img/板块2背景-m@2x.png");
+      background: url("../../img/vision-bg-m.svg");
       background-size: 100% 580px;
     }
 
     .img {
       width: 715px;
       height: 784px;
-      background: url("../../img/板块2配图@2x.png");
+      background: url("../../img/product-app.png");
       background-size: 715px 784px;
       position: absolute;
       top: 16px;
@@ -98,21 +98,21 @@
   #c2 {
     width: 100%;
     height: 800px;
-    background: url("../../img/板块3背景@2x.png");
+    // background: url("../../img/banner-bg.svg");
     background-size: 100% 800px;
     overflow: hidden;
     position: relative;
 
     @include mobile {
       height: 440px;
-      background: url("../../img/板块3背景-m@2x.png");
+      // background: url("../../img/板块3背景-m@2x.png");
       background-size: 100% 440px;
     }
 
     .img {
       width: 677px;
       height: 364px;
-      background: url("../../img/版块3配图@2x.png");
+      background: url("../../img/process-chart.png");
       background-size: 677px 364px;
       position: absolute;
       top: 216px;
@@ -194,21 +194,21 @@
   #c3 {
     width: 100%;
     height: 900px;
-    background: url("../../img/板块4背景@2x.png");
+    background: url("../../img/workflow-bg.svg");
     background-size: 100% 900px;
     overflow: hidden;
     position: relative;
 
     @include mobile {
       height: 898px;
-      background: url("../../img/板块4背景-m@2x.png");
+      background: url("../../img/workflow-bg-m.svg");
       background-size: 100% 898px;
     }
 
     .img {
       width: 579px;
       height: 612px;
-      background: url("../../img/编组 34@2x.png");
+      background: url("../../img/flow-chart.png");
       background-size: 579px 612px;
       position: absolute;
       top: 124px;
